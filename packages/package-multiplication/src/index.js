@@ -1,4 +1,3 @@
-//@ts-ignore
 const {toHex } = require('package-hex')
 
 const mulToHex = (val1, val2) => {
